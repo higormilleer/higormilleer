@@ -1,7 +1,10 @@
-<h1 align="center">👋 Olá, eu sou o Higor Miller Grassi</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&width=500&lines=Hello,+My+name+is+Higor.;" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="https://www.linkedin.com/in/higor-miller-grassi-949212271/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/higor-miller-grassi-949212271/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
