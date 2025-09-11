@@ -9,15 +9,15 @@
 
 ---
 
-### 🚀 Sobre mim
-- 🎓 Estudante de **Ciência da Computação** na **UTFPR Santa Helena**  
-- 💻 Apaixonado por **IA, Machine Learning, Visão Computacional e Desenvolvimento Web**  
-- 📊 Atualmente trabalhando com **React, Node.js, Python, Docker, Airflow e OpenCV**  
-- ⚡ Foco em **aprender, criar e compartilhar conhecimento**
+### 🚀 About me
+- 🎓 Computer Science student at **UTFPR Santa Helena**  
+- 💻 Passionate about **AI, Machine Learning, Computer Vision and Web Development**  
+- 📊 Currently working with **React, Node.js, Python, Docker, Airflow and OpenCV**  
+- ⚡ Focused on **learning, creating and sharing knowledge**
 
 ---
 
-### 🛠️ Tecnologias que uso no dia a dia
+### 🛠️ Technologies I use daily
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=higormilleer&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higormilleer&layout=compact&theme=tokyonight" height="165"/>
